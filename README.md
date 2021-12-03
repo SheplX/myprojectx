@@ -1,7 +1,7 @@
 # Foobar
-foobar is a python library for dealing with word pluralization.
+Foobar is a python library for dealing with word pluralization.
 # Installation
-use the package manager [PIP](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/) to install foobar.
+Use the package manager [PIP](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/) to install foobar.
 ```
 pip install foobar
 ```
@@ -12,7 +12,7 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 # Contributing
-pull requests are welcome for major changes, please open an issue first to sicuss what u would like to change
+Pull requests are welcome for major changes, please open an issue first to sicuss what u would like to change
 
 please make sure to update tests as appropriate.
 
