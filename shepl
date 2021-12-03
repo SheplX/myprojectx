@@ -1,0 +1,17 @@
+githun account 
+setting
+ssh keys
+add new ssh key
+
+create remote repo github
+
+git init
+touch file
+git add file
+git commit -m "shepl"
+git branch -m main
+
+git remote add origin url(ssh)
+
+git push origin main
+
