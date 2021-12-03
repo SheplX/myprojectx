@@ -1,0 +1,2 @@
+remotly we can using : git push origin --delete v1.4
+locally : git tag -d v1.4
