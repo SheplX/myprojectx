@@ -20,5 +20,5 @@ please make sure to update tests as appropriate.
 [MIT](https://opensource.org/licenses/MIT)
 
 # Finally
-Thanks for reading my topic !, i hope it was useful for u, cheers !
+Thanks for reading my topic, i hope it was useful for u, cheers !
 ![Image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png)
