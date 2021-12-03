@@ -1,0 +1,3 @@
+if i have a branch called dev for example, remotly i can delete it by this line >git push origin :dev
+if locally, we can use this : git branch -d dev
+if not merged, we can using -D insted of -d
