@@ -1,7 +1,7 @@
 # Foobar
 foobar is a python library for dealing with word pluralization.
 # Installation
-use the package manager [pip](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/) to install foobar.
+use the package manager [PIP](https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/) to install foobar.
 ```
 pip install foobar
 ```
@@ -19,5 +19,5 @@ please make sure to update tests as appropriate.
 # license
 [MIT](https://opensource.org/licenses/MIT)
 
-# Images
+Finally, thanks for reading my topic !, i hope it was useful for u, cheers !
 ![Image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png)
